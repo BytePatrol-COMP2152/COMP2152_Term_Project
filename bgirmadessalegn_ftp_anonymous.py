@@ -1,5 +1,5 @@
 
-# Author: bgirmadessalegn
+# Author: Bruck Dessalegn
 # Vulnerability: Anonymous FTP login allowed + banner version leak
 # Target subdomain: ftp.0x10.cloud (port 2121 — non-standard FTP port)
 
