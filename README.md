@@ -8,7 +8,8 @@ BytePatrol-COMP2152
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| bgirmadessalegn | Anonymous FTP + version banner on non-standard port | bgirmadessalegn_ftp_anonymous |
+| Bruck Dessalegn | Anonymous FTP + version banner on non-standard port | bgirmadessalegn_ftp_anonymous |
+| Garv
 
 ## Videos
 
