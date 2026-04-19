@@ -9,13 +9,14 @@ BytePatrol-COMP2152
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
 | Bruck Dessalegn | Anonymous FTP + version banner on non-standard port | bgirmadessalegn_ftp_anonymous |
-| Garv
+| Garv |   |
 
 ## Videos
 
 Short video (max 3 minutes) per the assignment — add your YouTube link when it is uploaded:
 
-- bgirmadessalegn: 
+- Bruck Dessalegn | https://youtu.be/nbWGnHsdxdg
+- Garv   | https:
 
 ## Target
 
