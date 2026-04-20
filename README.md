@@ -7,7 +7,9 @@ Team _______
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
+
 | Garv | Unauthenticated Redis Access + Info Disclosure | garv_redis_exposure |
+
 | Bruck Dessalegn | Anonymous FTP login + banner leak | bgirmadessalegn_ftp_anonymous |
 
 
@@ -15,7 +17,7 @@ Team _______
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1: comming soon
+- Member 1: https://youtu.be/_A08PNwLXC8
 - Member 2: https://youtu.be/nbWGnHsdxdg
 
 ## Target
