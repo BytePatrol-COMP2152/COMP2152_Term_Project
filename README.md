@@ -1,8 +1,7 @@
 # COMP2152 — Term Project: CTF Bug Bounty
 
 ## Team Name
-<!-- Replace with your team name -->
-Team _______
+Team : BytePatrol
 
 ## Team Members
 

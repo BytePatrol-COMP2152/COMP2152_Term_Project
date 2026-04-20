@@ -12,6 +12,7 @@ scripts = [
     "example_port_check.py",
     "example_header_check.py",
     "garv_redis_exposure.py",
+    "bgirmadessalegn_ftp_anonymous.py",
 ]
 
 if __name__ == "__main__":
